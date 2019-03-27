@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: My portfolio
+
+plugins:
+ - jekyll-feed
