@@ -2,11 +2,10 @@ title: Portfolio
 email: demeritiusgriffin@gmail.com
 
 minima:
- # social media links in footer
   social_links:
     twitter: DemeritiusGriff
-    linkedin: demeritius-griffin
     github: demeritiusg
+    linkedin: demeritius-griffin
     
 highlighter: rouge 
    
