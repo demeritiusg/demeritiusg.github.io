@@ -9,6 +9,8 @@ email: demeritiusgriffin@gmail.com
     linkedin: https://www.linkedin.com/in/demeritius-griffin-bb476a7/
     github: https://demeritiusg.github.io/
     
+highlighter: rouge 
+   
 theme: jekyll-theme-slate
 
 plugins:
