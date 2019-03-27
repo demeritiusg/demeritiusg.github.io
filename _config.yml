@@ -16,6 +16,8 @@ highlighter: rouge
 
 header_pages:
  - blog.md
+ 
+google_analytics: UA-NNNNNNNN-N
    
 theme: minima
 
