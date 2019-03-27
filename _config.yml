@@ -1,8 +1,8 @@
 title: Portfolio
 author: Demeritius Griffin
 email: demeritiusgriffin@gmail.com
-description: > 
-  This is used as a portfolio
+#description: > 
+#  This is used as a portfolio
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
