@@ -9,7 +9,7 @@ email: demeritiusgriffin@gmail.com
     
 highlighter: rouge 
    
-theme: jekyll-theme-slate
+theme: minima
 
 plugins:
  - jekyll-feed
