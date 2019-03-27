@@ -4,7 +4,7 @@ email: demeritiusgriffin@gmail.com
 #description: > 
 #  This is used as a portfolio
 
-show_excerpts: false # set to true to show excerpts on the homepage
+#show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   social_links:
