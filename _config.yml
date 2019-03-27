@@ -1,5 +1,3 @@
-theme: jekyll-theme-slate
-
 # general info
 title: My portfolio
 author: Demeritius Griffin
@@ -11,6 +9,7 @@ email: demeritiusgriffin@gmail.com
     linkedin: https://www.linkedin.com/in/demeritius-griffin-bb476a7/
     github: https://demeritiusg.github.io/
     
+theme: jekyll-theme-slate
 
 plugins:
  - jekyll-feed
