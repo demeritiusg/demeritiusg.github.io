@@ -1,4 +1,5 @@
-# Senior Data & Cloud Engineer  
+# Senior Data & Cloud Engineer
+
 **AWS Data Platforms · Distributed Systems · Analytics at Scale**
 
 ---
@@ -53,6 +54,6 @@ This repository highlights selected projects, reference architectures, and hands
 
 ## Connect
 
-- **LinkedIn:** (https://www.linkedin.com/in/demetrius-griffin/)[https://www.linkedin.com/in/demetrius-griffin/]
+- **LinkedIn:** https://www.linkedin.com/in/demetrius-griffin/
 - **GitHub:** https://github.com/demeritiusg
 - **Portfolio:** https://demeritiusg.github.io
