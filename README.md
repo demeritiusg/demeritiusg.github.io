@@ -11,7 +11,7 @@ Technically sophisticated engineering professional with solid history of AWS Ser
   * Tableau
   * Airflow
   * Snowflake 
-  * Docker<br></br>
+  * Docker<br>
   
 - Technical Skills
   * SQL
